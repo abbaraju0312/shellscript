@@ -3,7 +3,7 @@
 # If exists, end the script with the notification that the file already exist.
 # If not exist, then create a file
 # validate whether the file created or not
-
+#git Edit 123
 read -p "Enter the file name:" filename
 echo $filename
 # test -f $filename
